@@ -2938,7 +2938,7 @@ Modal
 // pre-loader
 =====================================*/
 #preloader {
-  background: url("./slekh_files/load.gif") rgba(253,233,180,255) no-repeat scroll center center;
+  background: url("/slekh_files/load.gif") rgba(253,233,180,255) no-repeat scroll center center;
   height: 100%;
   left: 0;
   overflow: visible;
